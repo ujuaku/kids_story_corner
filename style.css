@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Style+Script&display=swap');
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:"Style Script", cursive;
+    background: #000000;
+    color: #fff;
+    font-weight: 400}
+h1{
+    text-transform: capitalize;
+}
+.button{
+    background: #f10f34;
+    height: 6rem;
+    width: 6rem;
+    text-decoration: none;
+}
+
+.one{
+    word-spacing: 1rem;
+}
+
+.two{
+    line-height: 2rem;
+}
+
+.three{
+    text-transform: capitalize;
+}
+
+
+
+
+
